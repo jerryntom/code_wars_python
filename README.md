@@ -7,6 +7,12 @@ Python solutions for https://www.codewars.com/
   <summary>8 kyu</summary>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/8%20kyu/Flick%20switch">Flick switch</a>
 </details>
+
+<details>
+  <summary>7 kyu</summary>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/7%20kyu/Friend%20or%20foe">Friend or foe?</a><br>
+</details>
+
 <details>
   <summary>6 kyu</summary>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Multiples%20of%203%20or%205">Multiples of 3 or 5</a><br>
