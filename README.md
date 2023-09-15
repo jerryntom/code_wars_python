@@ -18,4 +18,6 @@ Python solutions for https://www.codewars.com/
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Multiples%20of%203%20or%205">Multiples of 3 or 5</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Take%20a%20ten%20minutes%20walk">Take ten minutes walk</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Tribonacci">Tribonacci</a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Does%20my%20number%20look%20big%20in%20this">Does my number look big in this?</a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Split%20strings">Split strings</a><br>
 </details>
