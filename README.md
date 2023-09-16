@@ -20,4 +20,5 @@ Python solutions for https://www.codewars.com/
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Tribonacci">Tribonacci</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Does%20my%20number%20look%20big%20in%20this">Does my number look big in this?</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Split%20strings">Split strings</a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Find%20the%20parity%20outlier">Find the parity outlier</a><br>
 </details>
