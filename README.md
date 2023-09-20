@@ -22,3 +22,8 @@ Python solutions for https://www.codewars.com/
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Split%20strings">Split strings</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Find%20the%20parity%20outlier">Find the parity outlier</a><br>
 </details>
+
+<details>
+  <summary>5 kyu</summary>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Pete%2C%20the%20baker">Pete, the baker</a><br>
+</details>
