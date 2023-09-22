@@ -28,4 +28,5 @@ Python solutions for https://www.codewars.com/
   <summary>5 kyu</summary>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Pete%2C%20the%20baker">Pete, the baker</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Human%20Readable%20Time">Human readable time</a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Tic-Tac-Toe%20checker">Tic-tac-toe checker</a><br>
 </details>
