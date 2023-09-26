@@ -32,6 +32,7 @@ Python solutions for https://www.codewars.com/
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/RGB%20to%20hex%20conversion">RGB to hex conversion</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Perimeters%20of%20squares%20in%20a%20rectangle">Perimeters of squares in a rectangle</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Product%20of%20consecutive%20Fib%20numbers">Product of consecutive Fib numbers</a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Number%20of%20trailing%20zeros%20of%20N!">Number of trailing zeros of N!</a><br>
 </details>
 
 <details>
