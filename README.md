@@ -24,7 +24,7 @@ Python solutions for https://www.codewars.com/
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Your%20order%2C%20please">Your order, please</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Counting%20duplicates">Counting duplicates</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Find%20the%20odd%20int">Find the odd int<a><br>
-  <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Unique%20in%20order">Find the odd int<a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Unique%20in%20order">Unique in order<a><br>
 </details>
 
 <details>
