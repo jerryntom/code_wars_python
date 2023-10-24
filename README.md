@@ -25,6 +25,7 @@ Python solutions for https://www.codewars.com/
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Counting%20duplicates">Counting duplicates</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Find%20the%20odd%20int">Find the odd int<a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Unique%20in%20order">Unique in order<a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Decode%20the%20Morse%20code">Decode the Morse code<a><br>
 </details>
 
 <details>
