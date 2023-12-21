@@ -27,6 +27,7 @@ Python solutions for https://www.codewars.com/
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Unique%20in%20order">Unique in order<a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Decode%20the%20Morse%20code">Decode the Morse code<a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Who%20likes%20it">Who likes it?</a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/6%20kyu/Create%20phone%20number">Create phone number</a><br>
 </details>
 
 <details>
