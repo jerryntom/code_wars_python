@@ -41,6 +41,7 @@ Python solutions for https://www.codewars.com/
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Number%20of%20trailing%20zeros%20of%20N!">Number of trailing zeros of N!</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/So%20many%20permutations!">So many permutations!</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/What's%20a%20Perfect%20Power%20anyway">What's a Perfect power anyway?</a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Convert%20A%20Hex%20String%20To%20RGB">Convert A Hex String To RGB</a><br>
 </details>
 
 <details>
