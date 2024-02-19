@@ -42,6 +42,7 @@ Python solutions for https://www.codewars.com/
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/So%20many%20permutations!">So many permutations!</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/What's%20a%20Perfect%20Power%20anyway">What's a Perfect power anyway?</a><br>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/Convert%20A%20Hex%20String%20To%20RGB">Convert A Hex String To RGB</a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/5%20kyu/First%20non-repeating%20character">First non-repeating character</a><br>
 </details>
 
 <details>
