@@ -49,5 +49,6 @@ Python solutions for https://www.codewars.com/
 <details>
   <summary>4 kyu</summary>
   <a href="https://github.com/jerryntom/code_wars_python/tree/main/4%20kyu/Matrix%20determinant">Matrix determinant</a><br>  
-  <a href="https://github.com/jerryntom/code_wars_python/tree/main/4%20kyu/Decode%20the%20Morse%20code%2C%20advanced">Decode the Morse code, advanced</a>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/4%20kyu/Decode%20the%20Morse%20code%2C%20advanced">Decode the Morse code, advanced</a><br>
+  <a href="https://github.com/jerryntom/code_wars_python/tree/main/4%20kyu/Codewars%20style%20ranking%20system">Codewars style ranking system</a><br>
 </details>
